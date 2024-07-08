@@ -25,6 +25,16 @@ class Main
     {
       System.out.println("Slow down!");
     }
+
+    if (color == 'r')
+    {
+      System.out.println("STOP!");
+    }
+
+    if (color == 'g')
+    {
+      System.out.println("Put the pedal to the metal!");
+    }
     //Now create two more for red and green lights.
     //Create the next if-then statement here!
     
